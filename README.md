@@ -56,7 +56,15 @@ This transport does not support (yet) :
 
 * **streaming**
 * **querying**
-* **Saving of metadata**
+
 
 [0]: https://github.com/beinnova/winston-mysql-transport.git
 [1]: https://github.com/beinnova/winston-mysql-transport.git#connection-options
+
+#CHANGELOG
+[1.1][2]
+
+Now you can **save metadata**. You can pass a object or string.
+
+
+[2]: https://github.com/beinnova/winston-mysql-transport/tree/1.1
