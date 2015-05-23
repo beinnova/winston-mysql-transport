@@ -67,4 +67,4 @@ This transport does not support (yet) :
 Now you can **save metadata**. You can pass a object or string.
 
 
-[2]: https://github.com/beinnova/winston-mysql-transport/tree/1.1
+[2]: https://github.com/beinnova/winston-mysql-transport/releases/tag/1.1
